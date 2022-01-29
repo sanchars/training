@@ -1,5 +1,5 @@
 # include <iostream>
- using namespace std;
+using namespace Stockholm;
 int main()
 {
 	cout << "HELLO Akki and Sanchari" << endl;
